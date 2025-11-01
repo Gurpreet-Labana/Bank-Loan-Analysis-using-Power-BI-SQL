@@ -74,7 +74,7 @@ All these indicators are visualized in a Loan Status Grid View — a structured 
 
 In essence, the Summary Dashboard acts as a real-time executive cockpit one that highlights where the business stands and where it’s heading.
 
-🖼️ 
+![Summary Dashboard](https://github.com/Gurpreet-Labana/Bank-Loan-Analysis-using-Power-BI-SQL/blob/main/Output%20Visuals/Summary.png) 
 
 #### **Dashboard 2: Overview**
 While the Summary Dashboard answers “What is happening?”, the Overview Dashboard focuses on “Why is it happening?”. This layer digs deeper into patterns and behaviors hidden within the data, transforming numbers into meaningful business stories.
@@ -89,7 +89,8 @@ To achieve this, a variety of data visualization techniques were used, each desi
 
 Together, these visuals transform complex lending data into clear business narratives. The Overview Dashboard allows managers and analysts to interact with the data — filtering by time, region, or loan type — to uncover relationships and patterns that might otherwise remain hidden.
 
-🖼️ 
+![Overview Dashboard](https://github.com/Gurpreet-Labana/Bank-Loan-Analysis-using-Power-BI-SQL/blob/main/Output%20Visuals/Overview.png)
+  
 
 #### **Dashboard 3: Details**
 The Details Dashboard was designed as the analytical backbone of the entire system — a deep-dive layer that provides record-level transparency. Where the previous dashboards summarized and visualized trends, this one exposes the raw intelligence behind those metrics.
@@ -111,7 +112,8 @@ This dashboard also supports operational decision-making, enabling loan officers
 
 Ultimately, the Details Dashboard ensures that every data-driven insight is supported by real, verifiable information bridging the gap between strategic dashboards and operational intelligence.
 
-🖼️ 
+![Details Dashboard](https://github.com/Gurpreet-Labana/Bank-Loan-Analysis-using-Power-BI-SQL/blob/main/Output%20Visuals/Details.png)
+ 
 
 ---
 
@@ -161,7 +163,7 @@ Follow these steps to explore the project on your system:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github
+   git clone https://github.com/Gurpreet-Labana/Bank-Loan-Analysis-using-Power-BI-SQL
 2. **Open in Power BI Desktop**
 Load the .pbix file to view and interact with the dashboards.
 
