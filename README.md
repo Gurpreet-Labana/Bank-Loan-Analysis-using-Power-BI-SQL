@@ -163,7 +163,8 @@ Follow these steps to explore the project on your system:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/Gurpreet-Labana/Bank-Loan-Analysis-using-Power-BI-SQL
+   https://github.com/Gurpreet-Labana/Bank-Loan-Analysis-using-Power-BI-SQL
+
 2. **Open in Power BI Desktop**
 Load the .pbix file to view and interact with the dashboards.
 
